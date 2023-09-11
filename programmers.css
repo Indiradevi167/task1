@@ -1,0 +1,93 @@
+.a{
+	margin-top: 10px;
+}
+.b{
+	padding-left: 30px;
+}
+.fa-solid{
+	color: pink;
+	font-size: 30px;
+	padding-left: 120px;
+}
+#c{
+	padding-left: 120px;
+}
+#h{
+	color: blue;
+	font-size: 28px;
+}
+#h1{
+	color: green;
+	font-size: 28px;
+}
+#h2{
+	color: orange;
+	font-size: 28px;
+}
+#h3{
+	color: pink;
+	font-size: 28px;
+}
+.d{
+	text-align: center;
+}
+.d1{
+	text-align: center;
+}
+.col-md-4{
+	margin-right: 90px;
+	margin-left: 90px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	height: 280px;
+	width: 280px;
+}
+.col-md-3{
+	margin-left:70px;
+	margin-right: 70px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	height: 330px;
+	width: 300px;
+	background-color: pink;
+}
+.e{
+	height: 50px;
+	width: 50px;
+	margin-left: 750px;
+	border-radius: 20px;
+}
+.f{
+	text-align: center;
+}
+.f1{
+	text-align: center;
+	color: gray;
+}
+#e1{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+}
+#i1{
+	height: 610px;
+	width: 610px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.i2{
+	text-align:center;
+}
+.col-md-2{
+	margin-left: 60px;
+	margin-right: 60px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.ii{
+	height: 200px;
+	width: 400px;
+}
+.iii{
+	text-align: center;
+}
